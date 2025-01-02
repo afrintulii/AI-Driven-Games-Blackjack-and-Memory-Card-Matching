@@ -21,10 +21,10 @@ This project is a Python-based implementation of the classic Blackjack game. It 
 ## Screenshots
 
 ### Initial Game Window
-![Initial Game Window](path/to/initial_game_window.png)
+![Initial Game Window](initial_window.png)
 
 ### Gameplay
-![Gameplay](path/to/gameplay.png)
+![Gameplay]()
 
 ### Player Wins
 ![Player Wins](path/to/player_wins.png)
