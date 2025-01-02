@@ -18,3 +18,13 @@ This project is a Python-based implementation of the classic Blackjack game. It 
 2. Choose to "Hit" (draw a card) or "Stand" (keep your hand).
 3. The goal is to reach a total score close to 21 without exceeding it.
 
+## Screenshots
+
+### Initial Game Window
+![Initial Game Window](path/to/initial_game_window.png)
+
+### Gameplay
+![Gameplay](path/to/gameplay.png)
+
+### Player Wins
+![Player Wins](path/to/player_wins.png)
